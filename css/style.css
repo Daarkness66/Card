@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+}
+.card{
+    width: 400px;
+    height: 200px;
+    box-sizing: border-box;
+    background-image: url(../assets/backgorund.png);
+    background-size: cover;
+    padding: 1px 20px;
+    background-repeat: no-repeat;
+    background-attachment: local;
+    margin: auto;
+    margin-top: 10%;
+}
+ul{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+    font-style: times;
+}
